@@ -1,5 +1,15 @@
 
-<p style="text-align: center;"><img alt="logo-nexo" src="logo.jpeg" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Nexo-IT Consultores</title>
+	<link rel="stylesheet" href="css/estilo.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>	
+</head>
+<body>
+<section>
+	<p style="text-align: center;"><img alt="logo-nexo" src="img/logoNexo.png" /></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
@@ -18,3 +28,9 @@ Monse&ntilde;or F&eacute;lix Cabrera 14 Of. 21<br />
 Providencia - Santiago</span></h4>
 
 <p>&nbsp;</p>
+
+</section>	
+
+
+</body>
+</html>
