@@ -36,9 +36,9 @@
 				    <h3>Integración de sistemas</h3>
 					<p>En toda instalación de mediano ó gran porte,  predomina la diversidad de aplicaciones (Legacy,  Word Class, "home-made") junto con la diversidad de entornos tecnológicos (AS/400, MS-Sql, Oracle, NetWeaver, Linux, por nombrar algunos)</p>
 
-					<p>Para alcanzar el éxito en los desafios que enfrentan nuestros clientes debemos lograr y garantizar un adecuado funcionamiento de sus aplicaciones y su interrelacion, buscando a traves de una Arquitectura Orientada a Servicios (SOA),  la unicidad y veracidad del dato que es compartido y utilizado entre ellos.</p>  
+					<p>Para alcanzar el éxito en los desafíos que enfrentan nuestros clientes debemos lograr y garantizar un adecuado funcionamiento de sus aplicaciones y su interrelación, buscando a través de una Arquitectura Orientada a Servicios (SOA),  la unicidad y veracidad del dato que es compartido y utilizado entre ellos.</p>  
 
-					<p>Nos hemos especializado en la integración de un world class como SAP,  entre sus diversas aplicaciones en el ambito técnico y hacia otros sitemas internos y/o externos a nuestros clientes a traves de su plataforma de tecnología integrada SAP Netweaver  y  su  middleware SAP-PI.</p>
+					<p>Nos hemos especializado en la integración de un world class como SAP,  entre sus diversas aplicaciones en el ámbito técnico y hacia otros sistemas internos y/o externos a nuestros clientes a través de su plataforma de tecnología integrada SAP Netweaver  y  su  middleware SAP-PI.</p>
 
 					<p>Realizamos el mejor diseño de procesos posible para cada desafío y una eficiente distribución de cargas,  obteniendo la máxima optimización para los diferentes volúmenes de datos que se procesan.</p>
 					<div class="cerrar">cerrar[x]</div>
@@ -58,9 +58,9 @@
 					</ul>
 					</nav>
 				   <h3>Ejecución de proyectos</h3>
-					<p>Definición de objetivos y entregables  junto con el cumplimiento de fechas y compromisos,  constituyen los elementos escenciales que priorizamos para éste tipo de actividad.</p>
+					<p>Definición de objetivos y entregables  junto con el cumplimiento de fechas y compromisos,  constituyen los elementos esenciales que priorizamos para éste tipo de actividad.</p>
 
-					<p>La planificación, el establecimiento de los controles  adecuados, realización de tareas a través de las prácticas y estándares reconocidos en la industria informática,  están incorporados a nuestra forrma de trabajo y son parte de nuestra "cultura organizacional".</p>
+					<p>La planificación, el establecimiento de los controles  adecuados, realización de tareas a través de las prácticas y estándares reconocidos en la industria informática,  están incorporados a nuestra forma de trabajo y son parte de nuestra "cultura organizacional".</p>
 
 					<p>La gestión del proyecto, la búsqueda de acuerdos para salvar obstáculos que comprometan los objetivos a cumplir,  la real comprensión de las necesidades del cliente, son los caminos que nos permiten alcanzar el éxito en éste tipo de emprendimiento.</p>
 					<div class="cerrar">cerrar[x]</div>

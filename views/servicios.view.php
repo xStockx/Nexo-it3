@@ -3,7 +3,7 @@
 			<h3>Servicios</h3>
 			<!--- Consultoría-->
 			<div class="textosServicios">
-				<p class="subtitulos">- Consultoria (PMO):</p>
+				<p class="subtitulos">- Consultoría (PMO):</p>
 				<p>relevamiento, análisis y diagnósticos para definir los alcances del proyecto a abordar. Los proyectos pueden consistir en:</p>
 				<p>• El desarrollo de un software "a medida"</p>
 				<p>• La implementación de un producto con sus interfaces dentro de la instalación.</p>

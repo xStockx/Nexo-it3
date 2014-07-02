@@ -47,6 +47,6 @@
 			<!--Sw Alojamiento-->
 						<div class="textosServicios">
 				<p class="subtitulos">- SW Todo Alojamiento: </p>
-				<p> Aplicación web para la atención, reserva, control y liquidación final de los servicios prestados a los huéspedes.  Con énfasis en la Gestión de Reserva, Gestión de Caja y en especial, con la incorporación de “medios móviles” (smart phone, i-pad, etc.) para consultas, autorizaciones y supervisión por parte del dueño/encargado.  Resuelve la facturación,  su contabilización y estadísticas de distinto tipo. Puede funcionar desde “la nube” como un Servicio ó bien en forma local. </p>
+				<p> Aplicación web para la atención, reserva, control y liquidación final de los servicios prestados a los huéspedes.  Con énfasis en la Gestión de Reserva, Gestión de Caja y en especial, con la incorporación de “medios móviles” (Smatphone, Tablet, entre otros ..) para consultas, autorizaciones y supervisión por parte del dueño/encargado.  Resuelve la facturación,  su contabilización y estadísticas de distinto tipo. Puede funcionar desde “la nube” como un Servicio ó bien en forma local. </p>
 			</div>
 </article>
