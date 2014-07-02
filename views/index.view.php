@@ -1,5 +1,5 @@
 		<article id="presentacion">
-			<p>Somos una empresa con amplia experiencia en distintas plazas de latinoamérica que trabaja con la tecnología informática.</p>
+			<p>Somos una empresa con amplia experiencia en distintas plazas de Latinoamérica que trabaja con la tecnología informática.</p>
 			<p>Dentro de éste ámbito hemos desarrollado e implementado soluciones de diverso tipo.</p>
 			<p>Desde el año 2007 estamos establecidos en Chile.</p>
 		</article>
@@ -18,7 +18,7 @@
 				<h1> Ejecución de proyectos </h1>
 				<p> Definición de objetivos y entregables junto con
 					el cumplimiento de fechas y compromisos,
-					constituyen los elementos escenciales que
+					constituyen los elementos esenciales que
 					priorizamos para éste tipo de actividad.
 					La planificación, el establecimiento de los
 				</p>	

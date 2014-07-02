@@ -32,7 +32,7 @@
 				<p>
 				<strong>Servicios</strong>
 				 <br>
-				Consultoria (PMO) <br>
+				Consultoría (PMO) <br>
 				Mantenimiento Aplicaciones <br>
 				Mantenimiento de la Instalación <br>
 				Definición e implementación de Quality <br>

@@ -14,7 +14,7 @@
                             <img src="images/first/large/2.jpg" alt="image02" />
                             <div class="ei-title">
                                 <h2>Versatilidad</h2>
-                                <h3>Desarrollos web, Proyectos y  consultorias en áeas financieras en la industria y en el comercio</h3>
+                                <h3>Desarrollos web, Proyectos y  consultorías en áreas financieras en la industria y en el comercio</h3>
                             </div>
                         </li>
                         <li>
@@ -28,7 +28,7 @@
                             <img src="images/first/large/4.jpg" alt="image04"/>
                             <div class="ei-title">
                                 <h2>Cumplimiento</h2>
-                                <h3>de objetivos dentro de los plazos definios, utilización de mejores prácticas, técnicas de negociación, otros</h3>
+                                <h3>de objetivos dentro de los plazos definidos, utilización de mejores prácticas, técnicas de negociación, otros</h3>
                             </div>
                         </li>
                         <li>

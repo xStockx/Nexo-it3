@@ -6,7 +6,7 @@
 				<p class="subtitulos">- Consultoria (PMO):</p>
 				<p>relevamiento, análisis y diagnósticos para definir los alcances del proyecto a abordar. Los proyectos pueden consistir en:</p>
 				<p>• El desarrollo de un software "a medida"</p>
-				<p>• La implementación de un producto con sus interfases dentro de la instalación.</p>
+				<p>• La implementación de un producto con sus interfaces dentro de la instalación.</p>
 				<p>Realización del Proyecto, controles, seguimiento particular y global, estadísticas e información de avance.
 				Reuniones periódicas con las contrapartes, superación de obstáculos a través de acuerdos, incluyendo técnicas de negociación para alcanzar equilibrios legítimos para todas las partes. O bien pueden ser una combinación de ellos.<br>
 				Planificación, definición de responsables, compromisos, procedimiento de cambio de alcance, objetivos y entregables.</p>
@@ -22,21 +22,21 @@
 			<!--- Matetenimiento TI-->
 			<div class="textosServicios">
 				<p class="subtitulos">- Mantenimiento de la Tecnología (infraestructura TI):</p>
-				<p>Instalacion de motores de base de datos, antivirus, ftp, IIS. Implementamos y mantenemos la seguridad informática a través de las normas y
+				<p>Instalación de motores de base de datos, antivirus, ftp, IIS. Implementamos y mantenemos la seguridad informática a través de las normas y
 				procedimientos definidos. Junto con la administración y soporte de VPNs, Antispam, filtros de contenido, firewall y redes. Creación, modificación y
 				baja de usuarios para ingreso a los sistemas.<br>
 				Tareas de Operación de Sistemas: ejecución de procesos y control del resultado de los mismos.<br>
 				Ejecución de tareas previas y post cadenas de cierre (procesos batchs). Emisión de informes estadísticos. Administración de las Bases de Datos, con
 				conocimientos sólidos en la programación sobre ambiente SQL (SSIS, DTS / ETL, stores procedures).<br>
-				Instalación y configuración de software y hardware, dispositivos perisféricos, y soporte primario en redes. Instalación BD, IIS, Java, Frameworks.<br>
+				Instalación y configuración de software y hardware, dispositivos periféricos, y soporte primario en redes. Instalación BD, IIS, Java, Frameworks.<br>
 				Administración y configuración de equipos de comunicación y telefonía, soporte en configuración de redes y telecomunicaciones (monitoreo de
-				enlaces, configuración nuevos puntos de red, asignación y valdación de IPS).<br></p>
+				enlaces, configuración nuevos puntos de red, asignación y validación de IPS).<br></p>
 			</div>
 			<!--QA-->
 			<div class="textosServicios">
 				<p class="subtitulos">- Definición e implementación de Quality Assurance (QA):</p>
 					<p>Disponemos del conocimiento y la experiencia para llevar a cabo la definición de los casos de prueba, casos de uso, matrices de validación y testeo
-					de aplicaciones, a través de las herramientas y metodologías más idoneas.<br>
+					de aplicaciones, a través de las herramientas y metodologías más idóneas.<br>
 					Podemos disponer de equipos de trabajo en casa del cliente ó bien ofrecer éste servicio desde nuestras oficinas (outsourcing).</p>
 			</div>
 

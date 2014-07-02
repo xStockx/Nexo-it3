@@ -21,17 +21,17 @@
 			<!-- Gestion de req-->
 			<div class="textosServicios">
 				<p class="subtitulos">- Gestión de Requerimientos e Incidencias:  </p>
-				<p>Es una herramienta que permite realizar la gestión completa para el tratamiento de Incidencias  durante el ciclo de vida de una aplicación ó como herramienta fundamental para la interacción de las áreas de Desarrollo, QA y  Producción para su administración (utilizada por el Call Center y por la Mesa de Gestión de Incidencias).  Los errores ó mejoras que demanda la administración (usuarios),  son ingresadas  inherentes al ciclo de vida de las aplicacioens)  de una aplicación</p>
+				<p>Es una herramienta que permite realizar la gestión completa para el tratamiento de Incidencias  durante el ciclo de vida de una aplicación ó como herramienta fundamental para la interacción de las áreas de Desarrollo, QA y  Producción para su administración (utilizada por el Call Center y por la Mesa de Gestión de Incidencias).  Los errores ó mejoras que demanda la administración (usuarios),  son ingresadas  inherentes al ciclo de vida de las aplicaciones)  de una aplicación</p>
 			</div>
 			<!--- WorkFlow-->
 			<div class="textosServicios">
 				<p class="subtitulos"> - Workflow-NXT </p>
-				<p>Es un motor genérico de actividades que permite definir Flujos y Tareas, para determinados Roles-Usuarios,  con el fin de ordenar las demandas, dirigirlas a quien corresponda, dejándolas en su Bandeja de Entrada y enviando avisos a través de diversos medios:  mails, msg, otros.   Permite adjuntar documentos de distinto tipo, definir fechas de compromisos, y en general,  agendar y supervisar la marcha de un proyecto/tarea a través de las distintas áreas de la organización.  Uno de sus usos posibles consiste en la Gestión de Comités:  fijar reuniones, convocar miembros, adjuntar actas, fijar las tareas, fechas y responsables.
+				<p>Es un motor genérico de actividades que permite definir Flujos y Tareas, para determinados Roles-Usuarios,  con el fin de ordenar las demandas, dirigirlas a quien corresponda, dejándolas en su Bandeja de Entrada y enviando avisos a través de diversos medios:  mails, mensajes, otros.   Permite adjuntar documentos de distinto tipo, definir fechas de compromisos, y en general,  agendar y supervisar la marcha de un proyecto/tarea a través de las distintas áreas de la organización.  Uno de sus usos posibles consiste en la Gestión de Comités:  fijar reuniones, convocar miembros, adjuntar actas, fijar las tareas, fechas y responsables.
 				</p>
 			</div>
 			<!--QA-->
 			<div class="textosServicios">
-				<p class="subtitulos"> - GAM (Global Access Manager ) para el Control de las Cuentas de Usuario en toda la Insatalación:</p>
+				<p class="subtitulos"> - GAM (Global Access Manager ) para el Control de las Cuentas de Usuario en toda la Instalación:</p>
 				<p> Es un producto informático,  desarrollado en versiones para múltiples plataformas, que permite gestionar y supervisar, en forma ordenada y segura, la actividad de los Usuarios en los diferentes ambientes y aplicaciones de toda la  instalación.</p>
 
 				<p>Sus alcances se extienden desde la interacción automatizada con datos mínimos y no sensibles de la nómina (documento identidad, nombre y cargo) que proporciona el Dpto. de RRHH,  hasta el monitoreo con extractores especializados de las actividades de las cuentas en las distintas capas de software:  Sistema Operativo, Base de Datos, Aplicaciones.</p>
