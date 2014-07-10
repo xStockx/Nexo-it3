@@ -8,9 +8,10 @@
 				<h1> Capital humano </h1>
 				<p>Consideramos que las personas que trabajan con
 					nosotros son las que proveen el valor diferencial.
-					Técnicos, Funcionales, Analistas, Ingenieros y los
-					distintos roles que llevan a cabo nuestros
-					fundamental para la calidad de nuestros servicios
+					Técnicos, Funcionales, Analistas, Ingenieros y los 
+					distintos roles que llevan a cabo nuestros consultores,  
+					aportan un valor agregado fundamental 
+					para la calidad ...
 				</p>	
 				<p class="lineaPuenteada">--------------------------------------------------- <a href="#" data-toggle="modal" onclick="muestraModal('capitalHumanoModal')">[+]</a></p>
 			</div>
@@ -20,7 +21,7 @@
 					el cumplimiento de fechas y compromisos,
 					constituyen los elementos esenciales que
 					priorizamos para éste tipo de actividad.
-					La planificación, el establecimiento de los
+					La planificación, el establecimiento de los ...
 				</p>	
 				<br>
 				<p class="lineaPuenteada">--------------------------------------------------- <a a href="#" data-toggle="modal" onclick="muestraModal('ejecucionProyectosModal')">[+]</a></p>
@@ -31,7 +32,7 @@
 					predomina la diversidad de aplicaciones (Legacy,
 					Word Class, "home-made") junto con la diversidad
 					de entornos tecnológicos (AS/400, MS-Sql, Oracle,
-					NetWeaver, Linux, por nombrar algunos).
+					NetWeaver, Linux, por nombrar algunos)...
 				</p>	
 				<p class="lineaPuenteada">--------------------------------------------------- <a href="#" data-toggle="modal" onclick="muestraModal('integracionSistemaModal')">[+]</a></p>
 			</div>

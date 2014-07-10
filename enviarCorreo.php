@@ -18,8 +18,7 @@
 	}
 	else
 	{
-		$para  = 'gerencia@nexo-it.cl' . ', '; 
-		$para .= 'javier@rains.cl';
+		$para  = 'gerencia@nexo-it.cl'; 		
 		$titulo = 'Mensaje Enviado desde Nexo-it.cl';
 		$mensaje = '
 				<html>
